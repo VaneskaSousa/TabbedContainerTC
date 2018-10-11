@@ -6,7 +6,9 @@ import totalcross.ui.MainWindow;
 public class TabbedContainerTC extends MainWindow{
 	
 	public TabbedContainerTC(){
+
 		setUIStyle(Settings.Material);
+	
 	}
 	
 	public void initUI(){
